@@ -9,4 +9,4 @@ https://listofdealgame.netlify.app/
 
 website only has two pages: home "/" and "/deals"
 
-I was about to add some animations to carousel slides but struggling on adding new features to my code and website only provides limited number of game list or maybe I didn't justfiy the correct parameter
+I wanted to add animations to the carousel slides but found myself struggling to implement new features in my code. Additionally, the website only displays a limited number of game listings, which might be due to incorrect parameter usage or restrictions in the API.
